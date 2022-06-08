@@ -17,3 +17,6 @@ total_gears = 12
 bar_clamp_size = 31.8
 bottom_bracket = 30.99
 seatpost_diameter = 30.9
+
+#boolean variables
+bike_is_black = true
