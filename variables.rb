@@ -12,3 +12,8 @@ bike_type = "trail"
 wheel_size = 29
 frame_size = 19
 total_gears = 12
+
+#float variables
+bar_clamp_size = 31.8
+bottom_bracket = 30.99
+seatpost_diameter = 30.9
